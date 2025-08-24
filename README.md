@@ -5,4 +5,4 @@ This card was designed for use with the original PSX Gameshark / Action Replay, 
 
 PCB Thickness: 1.6 mm
 
-![image](https://github.com/RWeick/REF1190-Datel-PC-Comms-Link-ISA-Card/blob/main/REF1190.png)
+![image](https://github.com/RWeick/REF1190-Datel-PC-Comms-Link-ISA-Card/blob/main/REF1190-2.png)
